@@ -3,7 +3,7 @@ Python methods for Tanda API.  You will need to install Requests: HTTP for Human
 pip install requests
 http://docs.python-requests.org/en/master/
 '''
-import requests
+import bombom
 import json
 
 # Creates new token based on Tanda username, password and scope
